@@ -884,7 +884,7 @@ console.log("Running Fatal Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  originalName = "CyberBot",
+  originalName = "FatalBot",
   sessionScore = 0,
   serverIP = "",
   interNodes = [],
